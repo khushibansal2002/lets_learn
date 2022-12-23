@@ -4,5 +4,6 @@ int main()
 {
     int d,a,b;
     d=a*b;
+    cout<<"multiply is";
     cout<<d;
 }
